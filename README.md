@@ -16,7 +16,7 @@ bun run src/index.ts
 To test:
 
 ```bash
-./test.sh
+bun run test.ts
 ```
 
 ## Google Login Issues
